@@ -1,0 +1,38 @@
+{
+  "posts": [
+    {
+      "userId": 1,
+      "id": 2,
+      "title": "Pelaksanaan Rapat Hasil Akhir Yudisium Semester Ganjil 2019/2020",
+      "body": "Jumat (17/1/20) kemarin, Jurusan Teknologi Informasi Politeknik Negeri Malang (JTI Polinema) menyelenggarakan rapat hasil yudisium semester ganjil tahun ajaran 2019/2020. Acara ini dimulai pada jam 8.30 dan bertempat di lantai 8, Gedung Teknik Sipil, Politeknik Negeri..."
+    },
+    {
+      "userId": 1,
+      "id": 2041720059,
+      "title": "Pemrograman Berbasis Framework",
+      "body": "TI-3E"
+    },
+    {
+      "userId": 1,
+      "id": 1679218571778,
+      "title": "Gilang Setyawan",
+      "body": "Mencoba menambah data menggunakan metode POST"
+    },
+    {
+      "userId": 1,
+      "id": 1679222562623,
+      "title": "Kuis 3E",
+      "body": "Membuat status mahasiswa "
+    },
+    {
+      "userId": 1,
+      "id": 1679325112172,
+      "title": "dwakodkwoa",
+      "body": "dwoakdowakdowa"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
