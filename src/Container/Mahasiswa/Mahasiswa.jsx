@@ -100,7 +100,7 @@ class Mahasiswa extends Component{
                     <div className="form-group row">
                         <label htmlFor="angkatan" className="col-sm-2 col-form-label">Angkatan</label>
                         <div className="col-sm-5">
-                            <select htmlFor="angkatan" class="form-control" name="angkatan" id="angkatan"onChange={this.handleTambahMahasiswa}>
+                            <select htmlFor="angkatan" className="form-control" name="angkatan" id="angkatan"onChange={this.handleTambahMahasiswa}>
                                 <option disabled selected value>Select on Option Years</option>
                                 <option value="2015">2015</option>
                                 <option value="2016">2016</option>
@@ -118,7 +118,7 @@ class Mahasiswa extends Component{
                     <div className="form-group row">
                         <label htmlFor="status" className="col-sm-2 col-form-label">Status</label>
                         <div className="col-sm-5">
-                            <select htmlFor="status" class="form-control" name="status" id="status"onChange={this.handleTambahMahasiswa}>
+                            <select htmlFor="status" className="form-control" name="status" id="status"onChange={this.handleTambahMahasiswa}>
                                 <option disabled selected value>Select on Option Status</option>
                                 <option value="Aktif">Aktif</option>
                                 <option value="Lulus">Lulus</option>
