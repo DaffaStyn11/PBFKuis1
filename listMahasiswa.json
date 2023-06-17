@@ -1,29 +1,53 @@
 {
   "mahasiswa": [
     {
-      "NIM": 2041720011,
-      "nama": "Mahasiswa 1",
-      "alamat": "Jl. Soekarno Hatta No. 9 Malang",
-      "hp": "081802023249",
-      "angkatan": 2020,
+      "userId": 1,
+      "id": 2,
+      "NIM": 1941720177,
+      "nama": "Ibrahim",
+      "alamat": "Jl. Surabaya No. 9 Malang",
+      "hp": "081802023112",
+      "angkatan": 2019,
       "status": "Aktif"
-    },
-    {
-      "NIM": 2041720269,
-      "nama": "Mahasiswa X",
-      "alamat": "Jl. Menur No. 9 Surabaya",
-      "hp": "081802023523",
-      "angkatan": 2020,
-      "status": "Lulus"
     },
     {
       "userId": 1,
       "id": 1679379241183,
-      "NIM": "2041720004",
-      "nama": "Judha Maygustya",
-      "alamat": "Pandaan Pasuruan",
+      "NIM": "1941719164",
+      "nama": "Susi Susanti",
+      "alamat": "Malang",
       "hp": "089679051179",
-      "angkatan": "2020",
+      "angkatan": "2018",
+      "status": "Lulus"
+    },
+    {
+      "userId": 1,
+      "id": 1679384150551,
+      "NIM": "1941719160",
+      "nama": "Salsabila",
+      "alamat": "Malang ",
+      "hp": "089679051171",
+      "angkatan": "2018",
+      "status": "Lulus"
+    },
+    {
+      "userId": 1,
+      "id": 1681194674295,
+      "NIM": "1941720235",
+      "nama": "Hidayatullah",
+      "alamat": "Jl. Candi panggung",
+      "hp": "082247333",
+      "angkatan": "2019",
+      "status": "Aktif"
+    },
+    {
+      "userId": 1,
+      "id": 1681194713569,
+      "NIM": "1941720235",
+      "nama": "Ibrahim",
+      "alamat": "Jl. Candi panggung",
+      "hp": "082247333",
+      "angkatan": "2019",
       "status": "Aktif"
     }
   ],
